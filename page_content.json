@@ -1,0 +1,62 @@
+{
+  "title": {
+    "id": "page-title",
+    "content": "LLM友好网页设计理念"
+  },
+  "header": {
+    "heading": {
+      "id": "main-heading",
+      "content": "针对LLM优化的网页设计理念"
+    },
+    "intro": {
+      "id": "intro-text",
+      "content": "大语言模型正在改变信息获取方式。设计适合AI浏览的网页不仅有利于AI理解，也提升了可访问性和搜索引擎优化效果，为未来网络做好准备。"
+    }
+  },
+  "cards": [
+    {
+      "heading": {
+        "id": "card-heading-1",
+        "content": "信息结构化"
+      },
+      "text": {
+        "id": "card-text-1",
+        "content": "使用合适的HTML语义标签构建清晰文档大纲，实现Schema.org等结构化数据标记，帮助LLM理解内容关系。"
+      }
+    },
+    {
+      "heading": {
+        "id": "card-heading-2",
+        "content": "内容优化"
+      },
+      "text": {
+        "id": "card-text-2",
+        "content": "采用描述性强的标题系统，精简直接的表述方式，为专业术语提供明确定义，减少歧义。"
+      }
+    },
+    {
+      "heading": {
+        "id": "card-heading-3",
+        "content": "技术实现"
+      },
+      "text": {
+        "id": "card-text-3",
+        "content": "完善元数据标签，提升无障碍设计，减少对JavaScript的依赖，确保核心内容可直接获取。"
+      }
+    },
+    {
+      "heading": {
+        "id": "card-heading-4",
+        "content": "导航与链接"
+      },
+      "text": {
+        "id": "card-text-4",
+        "content": "使用描述性锚文本，提供清晰导航路径，建立内容间的语义连接，助力整体理解。"
+      }
+    }
+  ],
+  "footer": {
+    "id": "footer-text",
+    "content": "LLM友好设计理念 | 更新日期: 2025年3月13日"
+  }
+}
